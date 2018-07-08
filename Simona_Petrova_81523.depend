@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1531053401 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_81523\main.cpp
+	<iostream>
+	<string>
+	"MedicalExamination.h"
+	"SingleExamination.h"
+	"PackageExamination.h"
+	"Laboratory.h"
+
+1528211359 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_81523\medicalexamination.h
+	<string>
+
+1528211201 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_81523\singleexamination.h
+	"MedicalExamination.h"
+
+1531053338 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_81523\packageexamination.h
+	"MedicalExamination.h"
+	<vector>
+
+1531057855 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_81523\laboratory.h
+	<queue>
+	"MedicalExamination.h"
+
